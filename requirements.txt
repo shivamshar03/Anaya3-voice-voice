@@ -1,0 +1,11 @@
+speechrecognition
+pyaudio
+git+https://github.com/openai/whisper.git
+langchain-groq
+dotenv
+playsound
+streamlit
+gtts
+webrtcvad
+pygame
+unidecode
